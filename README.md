@@ -2,16 +2,20 @@
 Arquitetura de Dados em Nuvem
 
 # TÍTULO DO PROJETO
-`CURSO`
-`ANO/SEMESTRE`
+Tecnologia em Bancos de Dados
+2024/2º semestre
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+Andressa Carneiro Rocha
+Elias Nogueira Salgado
+Laura Slater Alves
+Pedro Henrique Dos Santos Machado
+Thales De Mattos Oliveira
+Vanessa Omacht Schnee
+
+ 
 
 ## Orientador
 * Nome completo do professor 1
@@ -26,3 +30,4 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 | ETAPA 4        |[Aprendizagem de Máquina](projeto/aprendizado_maquina_rev.md)|
 | ETAPA 5        |[Análise dos Resultados](projeto/analise_resultados.md) |
 | ETAPA 6        |[Otimização](projeto/Otimizacao.md) |
+
