@@ -8,17 +8,15 @@ Tecnologia em Bancos de Dados
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
-Andressa Carneiro Rocha
-Elias Nogueira Salgado
-Laura Slater Alves
-Pedro Henrique Dos Santos Machado
-Thales De Mattos Oliveira
-Vanessa Omacht Schnee
-
- 
+* Andressa Carneiro Rocha
+* Elias Nogueira Salgado
+* Laura Slater Alves
+* Pedro Henrique Dos Santos Machado
+* Thales De Mattos Oliveira
+* Vanessa Omacht Schnee
 
 ## Orientador
-* Nome completo do professor 1
+* Cristiano Geraldo Teixeira Silva
 
 # Documentação
 
