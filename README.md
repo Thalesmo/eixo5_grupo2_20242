@@ -6,10 +6,13 @@ Tecnologia em Bancos de Dados
 2024/2º semestre
 
 O projeto tem como objetivo comparar dados de todas as Olimpíadas até 2020 para prever o desempenho dos países nos Jogos Olímpicos de 2024. Com os resultados reais de 2024 já disponíveis, essa iniciativa busca analisar as discrepâncias entre as previsões geradas pelos algoritmos de aprendizagem de máquinas e os resultados efetivamente alcançados. 
+
 A partir dessa análise, será possível avaliar a acurácia da pesquisa, identificar melhorias potenciais nos modelos preditivos e compreender melhor os fatores que influenciam o desempenho esportivo em nível global.
 
 Links para os datasets: 
+
 1 - https://www.kaggle.com/datasets/piterfm/olympic-games-medals-19862018
+
 2 - https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 ## Integrantes
